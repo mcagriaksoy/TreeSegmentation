@@ -7,6 +7,7 @@ After creating the mask and real image pair, we can continue with the models.
 We have many options but in ecosystem mostly use two models for segmentation tasks:
 
 1- uNet
+
 2- Mask RCNN
 
 
